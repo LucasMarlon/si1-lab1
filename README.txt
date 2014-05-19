@@ -1,1 +1,1 @@
-Este reposit¢rio cont‚m os arquivos do lab1 
+Este repositório contém os arquivos do lab1 
